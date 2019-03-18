@@ -42,10 +42,10 @@ namespace Exercise3
             {
                 Console.WriteLine($"\t {item.Key} ~ {item.Value} time(s)");
             }
-            Console.WriteLine($"\n\t Elapsed time: {timer.ElapsedMilliseconds} ms. on thread id: '{Thread.CurrentThread.ManagedThreadId}' (without TPL)");
+            Console.WriteLine($"\n\t Elapsed time: {timer.ElapsedMilliseconds} ms. (without TPL)");
         }
 
-        public void CountLettersWithTPL()
+        private void CountLettersWithTPL()
         {
             char[] arrChar = s.ToCharArray();
             SortedDictionary<string, int> countOfChars = new SortedDictionary<string, int>();
@@ -74,7 +74,7 @@ namespace Exercise3
             {
                 Console.WriteLine($"\t {item.Key} ~ {item.Value} time(s)");
             }
-            Console.WriteLine($"\n\t Elapsed time: {timer.ElapsedMilliseconds} ms. on thread id: '{Thread.CurrentThread.ManagedThreadId}' (with TPL)");
+            Console.WriteLine($"\n\t Elapsed time: {timer.ElapsedMilliseconds} ms. (with TPL)");
         }
     }
 }
