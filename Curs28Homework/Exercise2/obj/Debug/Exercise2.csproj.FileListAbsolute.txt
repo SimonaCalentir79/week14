@@ -1,0 +1,7 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise2\bin\Debug\Exercise2.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise2\bin\Debug\Exercise2.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise2\bin\Debug\Exercise2.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise2\obj\Debug\Exercise2.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise2\obj\Debug\Exercise2.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise2\obj\Debug\Exercise2.pdb

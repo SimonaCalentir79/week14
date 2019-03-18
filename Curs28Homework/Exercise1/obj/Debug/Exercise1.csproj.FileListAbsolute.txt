@@ -1,0 +1,6 @@
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise1\bin\Debug\Exercise1.exe.config
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise1\bin\Debug\Exercise1.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise1\bin\Debug\Exercise1.pdb
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise1\obj\Debug\Exercise1.csproj.CoreCompileInputs.cache
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise1\obj\Debug\Exercise1.exe
+D:\_DOCUMENTE&ALTELE\_WANTSOME\TEME\Curs28Homework\Curs28Homework\Exercise1\obj\Debug\Exercise1.pdb
